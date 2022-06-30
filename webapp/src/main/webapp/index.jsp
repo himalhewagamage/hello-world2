@@ -11,6 +11,10 @@
   <input type="text" id="lname" name="lname" value="Chathuranga"><br><br>
   <label for="lname">Surname:</label><br>
   <input type="text" id="lname" name="sname" value="Hewagamage"><br><br>
+  <label for="lname">Batta:</label><br>
+  <input type="text" id="lname" name="sname" value="Simbolon"><br><br>
+  <label for="lname">Batti:</label><br>
+  <input type="text" id="lname" name="sname" value="Kaila"><br><br>
   <input type="submit" value="Submit">
   
 </form> 
