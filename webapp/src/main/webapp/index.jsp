@@ -5,7 +5,7 @@
 <h2>HTML Forms</h2>
 
 <form action="/action_page.php">
-  <label for="fname">First name:</label><br>
+  <label for="fname">My First name:</label><br>
   <input type="text" id="fname" name="fname" value="Himal"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Chathuranga"><br><br>
@@ -14,7 +14,7 @@
   <label for="lname">Batta:</label><br>
   <input type="text" id="lname" name="sname" value="Simbolon"><br><br>
   <label for="lname">Batti:</label><br>
-  <input type="text" id="lname" name="sname" value="Kaila"><br><br>
+  <input type="text" id="lname" name="sname" value="Naughty Kaila"><br><br>
   <input type="submit" value="Submit">
   
 </form> 
